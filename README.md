@@ -34,8 +34,6 @@ A comprehensive console-based Library Management System built with C++ featuring
 - [Prerequisites](#-prerequisites)
 - [Installation & Setup](#-installation--setup)
 - [Usage Guide](#-usage-guide)
-- [File Structure Details](#-file-structure-details)
-- [Screenshots](#-screenshots)
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
 - [License](#-license)
